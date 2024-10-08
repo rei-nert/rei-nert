@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :school: I’m a Doctor, graduated :syringe: at Federal
+- :school: I’m a Doctor :syringe:. I graduated at Federal
   University of Saint Charles (2018 - 2023) 
 - 🌱 I mostly program in GoLang, Python and Bash
 - 👯 I’m looking to collaborate on multi language projects
